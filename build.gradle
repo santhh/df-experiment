@@ -40,7 +40,7 @@ apply plugin: 'idea'
 
 
 //mainClassName = System.getProperty("mainClass")
-mainClassName = 'com.google.swarm.experiment.AvgCalculation'
+mainClassName = 'com.google.swarm.experiment.PubSubBQBatchWrite'
 group 'com.google.swarm'
 version '0.1.0'
 
